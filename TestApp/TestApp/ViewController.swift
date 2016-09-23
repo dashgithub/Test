@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         print("change something")
         print("girls like porn")
         print("some other data")
+        print("discard allchange")
         
     }
 
